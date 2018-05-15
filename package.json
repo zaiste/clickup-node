@@ -1,0 +1,12 @@
+{
+  "name": "clickup",
+  "description": "Node.js Client/Wrapper for ClickUp API",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Zaiste",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/zaiste/node-clickup",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
